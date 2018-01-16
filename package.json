@@ -1,0 +1,24 @@
+{
+  "name": "sandbox",
+  "version": "1.0.0",
+  "description": "A android app used for selling items. Firebase auth,storage,database is used. \u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[C",
+  "main": "\u001b[A\u001b[",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/medinacharlesdan/Venta-Android.git"
+  },
+  "keywords": [
+    "android",
+    "studio",
+    "java"
+  ],
+  "author": "Charles Dan Medina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/medinacharlesdan/Venta-Android/issues"
+  },
+  "homepage": "https://github.com/medinacharlesdan/Venta-Android#readme"
+}

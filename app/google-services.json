@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "256643979994",
+    "firebase_url": "https://sandbox-70900.firebaseio.com",
+    "project_id": "sandbox-70900",
+    "storage_bucket": "sandbox-70900.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256643979994:android:af5d9390c9372a56",
+        "android_client_info": {
+          "package_name": "charles.sandbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256643979994-su142flqdhmgbkcsqqb402tg7skqr8fl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "charles.sandbox",
+            "certificate_hash": "0ebf7f5068345652d2f0ae34f792d68774b843c8"
+          }
+        },
+        {
+          "client_id": "256643979994-mbmv7uducrc4k2urvf0ttq88smg5mf5f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAobm8cN4LqciopUUsuM4CNkHKGiSG_f5E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256643979994-mbmv7uducrc4k2urvf0ttq88smg5mf5f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "256643979994-bjel44e84228lc9mkddcvs2gmuej17hb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "charles.sandbox"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

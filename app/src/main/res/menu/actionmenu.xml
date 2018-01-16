@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/callOpt"
+        android:icon="@mipmap/ic_call_black_24dp"
+        android:orderInCategory="100"
+        android:title="Give a Call"
+        android:visible="true" />
+
+    <item
+        android:id="@+id/emailOpt"
+        android:icon="@mipmap/ic_email"
+        android:orderInCategory="101"
+        android:title="Send an Email" />
+
+    <item
+        android:id="@+id/smsOpt"
+        android:icon="@mipmap/ic_message_black_24dp"
+        android:orderInCategory="102"
+        android:title="Create a Sms" />
+</menu>

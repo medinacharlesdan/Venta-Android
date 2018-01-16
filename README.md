@@ -4,8 +4,8 @@ Firebase Auth,Storage,Database is used.
 Glide is also used.
 
 ## Screenshots
-![Screenshot](Screenshot1.png =250x250) 
-![Screenshot](Screenshot2.png  | width=100) 
+![Screenshot](https://github.com/medinacharlesdan/Venta-Android/blob/master/Screenshot1.png =250x250) 
+![Screenshot](https://github.com/medinacharlesdan/Venta-Android/blob/master/Screenshot2.png| width=100) 
 ![Screenshot](Screenshot3.png)
 ![Screenshot](Screenshot4.png)
 ![Screenshot](Screenshot5.png)

@@ -4,7 +4,7 @@ Firebase Auth,Storage,Database is used.
 Glide is also used.
 
 ## Screenshots
-![Screenshot](Screenshot1.png)
+![Screenshot](Screenshot1.png=250x400)
 ![Screenshot](Screenshot2.png)
 ![Screenshot](Screenshot3.png)
 ![Screenshot](Screenshot4.png)
